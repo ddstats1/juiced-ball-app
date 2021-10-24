@@ -1,0 +1,22 @@
+---
+title: 
+author: Daniel Dulaney
+date: October 2, 2021
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(tidyverse)
+library(here)
+library(shiny)
+```
+
+```{r, echo = FALSE}
+shinyAppFile(
+  appFile = here("app.R"),
+  options = list(width = 800, height = 700)
+)
+```
+

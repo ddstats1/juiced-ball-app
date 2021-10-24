@@ -1,0 +1,13 @@
+name: test
+title: test
+username:
+account: ddstats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4779726
+bundleId: 5095245
+url: https://ddstats.shinyapps.io/test/
+when: 1633121287.75942
+lastSyncTime: 1633121287.75942
+asMultiple: FALSE
+asStatic: FALSE
